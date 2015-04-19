@@ -7,40 +7,6 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-	<div clas="container">
-			<nav class="navbar navbar-default navbar-top">
-				<div class="row toprow">
-					<div class="col-sm-3">
-					<a href=""><%= image_tag "logo.jpg", class: "image" %></a>
-					</div>
-						<div class="col-sm-9">
-							<ul class="list-unstyled list-inline topbar">
-								<li><a href="">HOME</a></li>
-								<li><a href="">PORTFOLIO</a></li>
-								<li><a href="">ABOUT</a></li>
-								<li><a href="">RESUME</a></li>
-								<li CLASS="contact"><a href="">CONTACT</a></li>
-							</ul>
-						</div>
-				</div>
-			</nav>
-
-			<div class="row rubybar">
-				<div class="col-sm-3"></div>
-					<div class="col-sm-6">
-						<h3 class="back"><em>Back-end developer with a strong passion for</em></h3>
-						<h1 class="ruby">RUBY ON RAILS</h1>
-						<ul class="list-unstyled list-inline social">
-								<li><a href=""><%= image_tag "linked.png", class: "image2" %></a></li>
-								<li><a href=""><%= image_tag "facebook.png", class: "image2" %></a></li>
-								<li><a href=""><%= image_tag "github.png", class: "image2" %></a></li>
-								<li><a href=""><%= image_tag "twitter_bird.png", class: "image2" %></a></li>
-							</ul>
-					</div>
-				<div class="col-sm-3"></div>
-			</div>
-
 <%= yield %>
-	</div>
 </body>
 </html>
