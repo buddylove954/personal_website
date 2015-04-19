@@ -13,3 +13,78 @@
  *= require_tree .
  *= require_self
  */
+
+.topbar {
+	float: right;
+	margin-top: 20px;
+}
+
+.contact {
+	padding: 5px;
+	font-size: 15px;
+	border: 2px solid black;
+	margin-right: 10px;
+}
+
+.toprow {
+	background-color: white;
+	border-color: white;
+}
+
+.image {
+	margin-left: 25px;
+	margin-top: 12px;
+	width: 100px;
+}
+
+a:link {
+	color:black;
+}
+
+a:hover {
+	color:#B1B4BA;
+	text-decoration: none;
+}
+
+a {
+	color:black;
+}
+
+/*body {
+	background-color: #B1B4BA;
+}*/
+
+.contact:hover {
+	background-color: black;
+	color: white;
+}
+
+li {
+	margin-right: 10px;
+}
+
+.back {
+	text-align: center;
+
+}
+
+.ruby {
+	text-align: center;	
+}
+
+.image2 {
+	width: 40px;
+	height: 40px;
+	margin-right: 5px;
+}
+
+.social {
+	margin-left: 30%;
+	margin-top: 10%;
+}
+
+.rubybar {
+	background-image: url('http://dormroomfund.com/img/slider-images/new-york-city.jpg');
+	height: 500px;
+	margin-top: -25px;
+}
