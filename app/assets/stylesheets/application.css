@@ -66,15 +66,16 @@ li {
 .back {
 	text-align: center;
 	font-size: 20px;
-	font-family: cursive;
+	font-family: Charcoal;
+	color: white;
 
 }
 
 .ruby {
 	text-align: center;	
 	font-size: 70px;
-	font-family: "DejaVu Sans Mono";
-	color: white;
+	font-family: Impact;
+	color: black;
 	margin-right: 10px;
 }
 
@@ -96,6 +97,7 @@ li {
 .rubybar {
 	background-image: url('http://dormroomfund.com/img/slider-images/new-york-city.jpg');
 	background-repeat: no-repeat;
+	opacity: 1;
 	margin-left: 1px;
 	height: 500px;
 	margin-top: -25px;
