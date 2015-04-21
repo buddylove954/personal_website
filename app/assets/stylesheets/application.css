@@ -67,7 +67,7 @@ li {
 	text-align: center;
 	font-size: 24px;
 	font-family: Charcoal;
-	color: black;
+	color: white;
 
 }
 
@@ -95,7 +95,7 @@ li {
 }
 
 .rubybar {
-	background-image: url('http://dormroomfund.com/img/slider-images/new-york-city.jpg');
+	background-image: url('new-york-city.jpg');
 	background-repeat: no-repeat;
 	opacity: 1;
 	margin-left: 1px;
@@ -122,7 +122,7 @@ li {
 }
 
 .backcolor {
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(0,0,0,0.3);
 	width: 1363px;
 	height: 500px;
 }
