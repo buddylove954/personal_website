@@ -11,7 +11,7 @@
  * file per style scope.
  *
  *= require_tree .
- *= require_self
+ *= require_self 
  */
 
 .topbar {
@@ -46,7 +46,7 @@ a:link {
 }
 
 a:hover {
-	color:#5483BF;
+	color:#1dcaff;
 	text-decoration: none;
 }
 
