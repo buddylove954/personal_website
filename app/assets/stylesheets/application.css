@@ -13,7 +13,10 @@
  *= require_tree .
  *= require_self 
  */
-
+.resumebut {
+	margin-left: 39%;
+	margin-top: 3%;
+}
 .topbar {
 	float: right;
 	margin-top: 20px;
@@ -84,7 +87,7 @@ li {
 }
 
 .social {
-	margin-left: 24%;
+	margin-left: 26%;
 	margin-top: 10%;
 }
 
@@ -170,4 +173,22 @@ li {
 
 .gmail:hover {
 	color: #db4437;
+}
+
+.modal-title {
+	text-align: center;
+	color: #d43f3a;
+	margin-left: 3%;
+}
+
+.modal-header {
+	background-color: #66A5DB;
+}
+
+.modal-footer {
+	background-color: #66A5DB;
+}
+
+.closebut {
+	margin-right: 45%;
 }
