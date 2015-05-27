@@ -92,7 +92,7 @@ li {
 }
 
 .rubybar {
-	background-image: url('new-york-city.jpg');
+	background-image: url('../images/new-york-city.jpg');
 	background-repeat: no-repeat;
 	opacity: 1;
 	margin-left: 1px;
