@@ -100,14 +100,14 @@ li {
 	margin-top: -25px;
 }
 
-.rubybar2 {
-	background-image: url('new-york-city.jpg');
+/*.rubybar2 {
+	background-image: url('Miami.jpg');
 	background-repeat: no-repeat;
 	opacity: 1;
-	margin-left: 1px;
+	margin-left: -80%;
 	height: 400px;
-	margin-top: -25px;
-}
+	margin-top: -20px;
+}*/
 
 .secondhead {
 	text-align: center;
@@ -192,3 +192,11 @@ li {
 .closebut {
 	margin-right: 45%;
 }
+
+.miapic {
+	width: 100%;
+	height: 20%;
+	margin-top: -3%;
+}
+
+
