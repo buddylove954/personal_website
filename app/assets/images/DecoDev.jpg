@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!-- saved from url=(0018)http://decodev.io/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>DecoDev</title>
+  <link rel="stylesheet" media="all" href="http://decodev.io/assets/application-dc968bb6acfcd88586bfe65b84f7aa908a8c1b2965863d14144a19498fc8e7ad.css">
+  <link rel="stylesheet" media="all" href="http://decodev.io/assets/styles-7c6934b6416c6f2f3efe4043881682ee8450c66931bdf57905e7eac89a1db728.css">
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="Gb2ZOCIBAm2CgKuOjiQ24I/0vNgBkYJzemXbVk4gmfyK7Rdh8OcpkjplXsvMHOB27CHU3RD04bI+WftRAapA+g==">
+</head>
+<body id="page-top" class="index">
+
+
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="http://decodev.io/#page-top">DecoDev</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden active">
+                        <a href="http://decodev.io/#page-top"></a>
+                    </li>
+                    <li class="">
+                        <a class="page-scroll" href="http://decodev.io/#about">About</a>
+                    </li>
+                    <!-- <li>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li> -->
+                    <li class="">
+                        <a class="page-scroll" href="http://decodev.io/#services">Services</a>
+                    </li>
+                    <!-- <li>
+                        <a class="page-scroll" href="#team">Team</a>
+                    </li> -->
+                    <li class="">
+                        <a class="page-scroll" href="http://decodev.io/#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <img height="150" class="heading" src="./DecoDev_files/decodev-slider-text-dff70f146450c603bc8d3a428be28b0db1f65d8b07b8d18995398587ac6051ea.png" alt="Decodev slider text dff70f146450c603bc8d3a428be28b0db1f65d8b07b8d18995398587ac6051ea">
+                <img class="subtitle" src="./DecoDev_files/subtitle-2cb7cdca0343be6c4de8d0d0484266b3f8e70b6964c2484384654daff04c3aac.png" alt="Subtitle 2cb7cdca0343be6c4de8d0d0484266b3f8e70b6964c2484384654daff04c3aac">
+            </div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About</h2>
+                    <h3 class="section-subheading text-muted">We are a small team of designers, developers and marketers based in Miami, Fl. <br><br>We specialize in producing high-end websites and web applications for quality conscious clients in the US and throughout Latin America. Our client management practices set us apart from other web development firms. <br><br>We put our clients interests first and not our own. We believe in full transparency with our clients before a project has even begun. We work with our clients every step of the way using agile methodologies to provide noteworthy products.</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Services</h2>
+                    <h3 class="section-subheading text-muted">We create solutions for the web and mobile.</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Web Applications</h4>
+                    <p class="text-muted">We build using the latest in JavaScript technologies integrated with the Ruby on Rails Framework.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-tablet fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Mobile Applications</h4>
+                    <p class="text-muted">From iOS to Android, we create solutions that adapt to the ever growing demand for a mobile presence.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-rocket fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Marketing</h4>
+                    <p class="text-muted">Our work isn't done after development. We continue working with you to make sure you applications reach your target audience.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contact Us</h2>
+                    <h3 class="section-subheading text-muted">We are here to answer any questions you have.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <form name="sentMessage" id="contactForm" novalidate="">
+                        <div class="row">
+                            <input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="Gb2ZOCIBAm2CgKuOjiQ24I/0vNgBkYJzemXbVk4gmfyK7Rdh8OcpkjplXsvMHOB27CHU3RD04bI+WftRAapA+g==">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input class="form-control" id="name" placeholder="Name" type="text" name="contact[name]">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" id="email" placeholder="Email" type="text" name="contact[email]">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" id="phone" placeholder="Phone" type="text" name="contact[phone]">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <textarea class="form-control" id="message" placeholder="Message" name="contact[description]"></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-xl">Send Message</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright © DecoDev 2015</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="http://decodev.io/#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="http://decodev.io/#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="http://decodev.io/#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                       <!--  <li><a href="#">Privacy Policy</a>
+                        </li>
+                        <li><a href="#">Terms of Use</a>
+                        </li> -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script src="./DecoDev_files/application-3b99a585cdf08fba6274c63de7bf5b5a59ca649b5243b49e7ea18aae01ee9247.js"></script>
+<script src="./DecoDev_files/classie-f4b3a1b3dd6a0c4f90614898f7584c541c96b2c56b3d23f34527a12fdc6442d3.js"></script>
+<script src="./DecoDev_files/cbpAnimatedHeader-f239f2e7a43022c45bfad4ae7ee5bbb7d4304c75f62c78de4aa87b4d31302d9d.js"></script>
+<script src="./DecoDev_files/jqBootstrapValidation-4994800ff9dfeee522331c729263fb931cbd642dc2844b56e04671cbd8b85046.js"></script>
+<script src="./DecoDev_files/contact_me-26a5d1b1f11bef43c7336ee319d8f51a352cd2b17e16b5fa67ae5f92d7f9f671.js"></script>
+<script src="./DecoDev_files/agency-6faf8424abc664cb16a41fd43f669b6372af8a31306e36a7cc99cc59c0007cb2.js"></script>
+<script src="./DecoDev_files/jquery.easing.min.js"></script>
+
+
+
+
+</body></html>
